@@ -17,7 +17,7 @@
         <br>
         <img src="https://github.com/nandamsouza/IMC/blob/main/img/Anima%C3%A7%C3%A3o_IMC.gif">
         <h1></h1>
-     <h3> Veja meu projeto 👉  <a href=" https://nandamsouza.github.io/IMC/"> Link </a></h3>    
+     <p> Veja meu projeto 👉  <a href=" https://nandamsouza.github.io/IMC/" target="blank"> Link </a></p>    
  </body>
 
 </html>
