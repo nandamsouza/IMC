@@ -15,7 +15,7 @@
     </ul>
     <h1 align="center">Demonstração do Projeto🔎</h1>
         <br>
-        <img src="../IMC/img/Animação_IMC.gif">
+        <img src="https://github.com/nandamsouza/IMC/blob/main/img/Anima%C3%A7%C3%A3o_IMC.gif">
         <br>
         <h1>
         <br></h1>
