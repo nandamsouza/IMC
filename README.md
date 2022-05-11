@@ -1,6 +1,7 @@
 
 <html lang = "pt-br">
- <meta charset="UTF-8">
+ 
+ <head><meta charset="UTF-8"></head>
 
  <body>
     <h1 align="center">Calculadora de IMC</h1>
