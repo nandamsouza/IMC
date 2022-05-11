@@ -15,7 +15,8 @@
     </ul>
     <h1 align="center">Demonstração do Projeto🔎</h1>
         <br>
-        <img src="https://github.com/nandamsouza/IMC/blob/main/img/Anima%C3%A7%C3%A3o_IMC.gif">
+        <img src="https://github.com/nandamsouza/IMC/blob/main/img/Anima%C3%A7%C3%A3o_IMC.gif
+               r
      <p> Veja meu projeto 👉  <a href=" https://nandamsouza.github.io/IMC/" target="blank"> Link </a></p>    
  </body>
 
