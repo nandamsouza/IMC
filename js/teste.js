@@ -33,7 +33,7 @@ function validacao() {
 function calculo() {
     var imc = ''
 
-    if (Number(peso.value) == '' && Number(altura.value) =='') {
+    if (Number(peso.value) == '' || Number(altura.value) =='' || nome.value == '') {
         resp.innerHTML = `Comentário`
     } else {
         imc = Number(peso.value) / (Number(altura.value) ** 2)
