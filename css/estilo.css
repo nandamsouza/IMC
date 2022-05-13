@@ -11,7 +11,7 @@ header{
 section{
     background:#77A8FF;
     padding-top: 60px;
-    padding-bottom: 107px;
+    padding-bottom: 110px;
 }
 
 #box-1{
@@ -26,7 +26,6 @@ section{
     padding-bottom: 50px;
     border-radius: 0px 8px 8px 0px; 
     box-shadow: 3px 8px 8px 0px rgba(0, 0, 0, 0.415);
-    box-sizing: border-box;
 }
 #box-2 h2{
     text-align: center;
